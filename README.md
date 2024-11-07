@@ -1,6 +1,6 @@
 # PETformer
 
-Welcome to the repository of PETformer: "PETformer: Long-term Time Series Forecasting via Placeholder-enhanced Transformer."
+Welcome to the repository of PETformer: "[PETformer: Long-term Time Series Forecasting via Placeholder-enhanced Transformer.](https://arxiv.org/pdf/2308.04791)"
 
 ## Updates
 🚩 **News** (2024.11): PETformer has been accepted by IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI).
@@ -9,16 +9,16 @@ Welcome to the repository of PETformer: "PETformer: Long-term Time Series Foreca
 
 This paper proposes the Placeholder-enhanced Technique (PET) to boost the computational efficiency and predictive accuracy of Transformers in long-term time series forecasting (LTSF) tasks.
 
-![image](Figures/Figure 1.png)
+![image](Figures/Figure1.png)
 
 The PET architecture employs a **shared learnable placeholder** that occupies the output window to be predicted. This placeholder is fed into the Transformer encoder for feature learning.
 
-![image](Figures/Figure 2.png)
+![image](Figures/Figure2.png)
 
 The PET structure introduces an extremely lightweight token-wise prediction layer design, significantly reducing the number of learnable parameters. 
 Compared to the flattening strategy of PatchTST, PETformer's prediction layer reduces the required parameters from `n * d_model * h` to `d_model * w`.
 
-![image](Figures/Table 2.png)
+![image](Figures/Table2.png)
 
 ## Getting Started
 
