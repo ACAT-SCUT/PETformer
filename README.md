@@ -3,7 +3,7 @@
 Welcome to the repository of PETformer: "[PETformer: Long-term Time Series Forecasting via Placeholder-enhanced Transformer.](https://arxiv.org/pdf/2308.04791)"
 
 ## Updates
-🚩 **News** (2024.11): PETformer has been accepted by IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI).
+🚩 **News** (2024.11): PETformer has been accepted by _IEEE_ **Transactions on Emerging Topics in Computational Intelligence** (_IEEE_ **TETCI**).
 
 ## Introduction
 
