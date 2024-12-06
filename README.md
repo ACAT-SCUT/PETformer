@@ -59,11 +59,12 @@ sh script/PETformer/etth1.sh
 ## Citation
 If you find this repo useful, please cite our paper.
 ```
-@article{lin2023petformer,
+@article{lin2024petformer,
   title={Petformer: Long-term time series forecasting via placeholder-enhanced transformer},
   author={Lin, Shengsheng and Lin, Weiwei and Wu, Wentai and Wang, Songbo and Wang, Yongxiang},
-  journal={arXiv preprint arXiv:2308.04791},
-  year={2023}
+  journal={IEEE Transactions on Emerging Topics in Computational Intelligence},
+  year={2024},
+  publisher={IEEE}
 }
 ```
 
